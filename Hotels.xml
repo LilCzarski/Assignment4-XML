@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
 
-  <Hotel Rating="4.2" NearstAirport="Sky Harbor">
+  <Hotel Rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8740</Phone>
-    <Address>
+    <Address NearstAirport="Sky Harbor">
       <Number>11</Number>
       <Street>E. 7th St</Street>
       <City>Tempe</City>
@@ -14,10 +14,10 @@
     </Address>
   </Hotel>
 
-  <Hotel NearstAirport="PHX">
+  <Hotel>
     <Name>Arizona Biltmore</Name>
     <Phone>602-955-6600</Phone>
-    <Address>
+    <Address NearstAirport="PHX">
       <Number>2400</Number>
       <Street>E Missouri Ave</Street>
       <City>Phoenix</City>
@@ -26,10 +26,10 @@
     </Address>
   </Hotel>
 
-  <Hotel NearstAirport="PHX">
+  <Hotel>
     <Name>Hotel San Carlos</Name>
     <Phone>602-253-4121</Phone>
-    <Address>
+    <Address NearstAirport="PHX">
       <Number>202</Number>
       <Street>N Central Ave</Street>
       <City>Phoenix</City>
@@ -38,10 +38,10 @@
     </Address>
   </Hotel>
 
-  <Hotel NearstAirport="PHX">
+  <Hotel>
     <Name>The Global Ambassador</Name>
     <Phone>602-867-5000</Phone>
-    <Address>
+    <Address NearstAirport="PHX">
       <Number>7100</Number>
       <Street>N 12th St</Street>
       <City>Phoenix</City>
@@ -50,10 +50,10 @@
     </Address>
   </Hotel>
 
-  <Hotel NearstAirport="PHX">
+  <Hotel>
     <Name>Hotel Valley Ho</Name>
     <Phone>480-376-2600</Phone>
-    <Address>
+    <Address NearstAirport="PHX">
       <Number>6850</Number>
       <Street>E Main St</Street>
       <City>Scottsdale</City>
@@ -62,10 +62,10 @@
     </Address>
   </Hotel>
 
-  <Hotel NearstAirport="PHX">
+  <Hotel>
     <Name>Mountain Shadows</Name>
     <Phone>480-624-5400</Phone>
-    <Address>
+    <Address NearstAirport="PHX">
       <Number>5445</Number>
       <Street>E Lincoln Dr</Street>
       <City>Paradise Valley</City>
@@ -74,10 +74,10 @@
     </Address>
   </Hotel>
 
-  <Hotel NearstAirport="LGA">
+  <Hotel>
     <Name>The Lexington Hotel, Autograph Collection</Name>
     <Phone>212-755-4400</Phone>
-    <Address>
+    <Address NearstAirport="LGA">
       <Number>511</Number>
       <Street>Lexington Ave</Street>
       <City>New York</City>
@@ -86,10 +86,10 @@
     </Address>
   </Hotel>
 
-  <Hotel NearstAirport="JFK">
+  <Hotel>
     <Name>Hotel Chelsea</Name>
     <Phone>212-483-1010</Phone>
-    <Address>
+    <Address NearstAirport="JFK">
       <Number>222</Number>
       <Street>W 23rd St</Street>
       <City>New York</City>
@@ -98,10 +98,10 @@
     </Address>
   </Hotel>
 
-  <Hotel NearstAirport="JFK">
+  <Hotel>
     <Name>Waldorf Astoria New York</Name>
     <Phone>212-872-1234</Phone>
-    <Address>
+    <Address NearstAirport="JFK">
       <Number>301</Number>
       <Street>Park Ave</Street>
       <City>New York</City>
@@ -110,10 +110,10 @@
     </Address>
   </Hotel>
 
-  <Hotel NearstAirport="JFK">
+  <Hotel>
     <Name>The Jane Hotel</Name>
     <Phone>212-924-6700</Phone>
-    <Address>
+    <Address NearstAirport="JFK">
       <Number>113</Number>
       <Street>Jane St</Street>
       <City>New York</City>
@@ -122,10 +122,10 @@
     </Address>
   </Hotel>
 
-  <Hotel NearstAirport="JFK">
+  <Hotel>
     <Name>Moxy East Village</Name>
     <Phone>212-288-6699</Phone>
-    <Address>
+    <Address NearstAirport="JFK">
       <Number>112</Number>
       <Street>E 11th St</Street>
       <City>New York</City>
