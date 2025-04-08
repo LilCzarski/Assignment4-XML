@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="Hotels.xsd">
+
+
+  <Hotel Rating="4.2" NearstAirport="Sky Harbor">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8740</Phone>
+    <Address>
+      <Number>11</Number>
+      <Street>E. 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel > <!--removed Nearest Airport-->
+    <Name>Arizona Biltmore</Name>
+    <Phone>602-955-6600</Phone>
+    <Address>
+      <Number>2400</Number>
+      <Street>E Missouri Ave</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85016</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel NearstAirport="PHX">
+    <Name>Hotel San Carlos</Name>
+    <!-- Phone removed -->
+    <Address>
+      <Number>202</Number>
+      <Street>N Central Ave</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel NearstAirport="PHX">
+    <Name>The Global Ambassador</Name>
+    <Phone>602-867-5000</Phone>
+    <Address>
+      <Number>7100</Number>
+      <Street>N 12th St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85020</Zip>
+    <!-- Missing closing tag -->
+  </Hotel>
+
+  <Hotel NearstAirport="PHX">
+    <Name>Hotel Valley Ho</Name>
+    <Phone>480-376-2600</Phone>
+    <Address>
+      <Number>6850</Number>
+      <Street>E Main St</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85251</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel NearstAirport="PHX">
+    <Name>Mountain Shadows</Name>
+    <Phone>480-624-5400</Phone>
+    <Address>
+      <Number>5445</Number>
+      <Street>E Lincoln Dr</Street>
+      <City>Paradise Valley</City>
+      <State>AZ</State>
+      <Zip>85253</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel NearstAirport="LGA">
+    <Name>The Lexington Hotel, Autograph Collection</Name>
+    <Phone>212-755-4400</Phone>
+    <Address>
+      <Number>511</Number>
+      <Street>Lexington Ave</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10017</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel NearstAirport="JFK">
+    <Name>Hotel Chelsea</Name>
+    <Name>Also Chelsea</Name>
+    <Phone>212-483-1010</Phone>
+    <Address>
+      <Number>222</Number>
+      <Street>W 23rd St</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10011</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel NearstAirport="JFK">
+    <Name>Waldorf Astoria New York</Name>
+    <Phone>212-872-1234</Phone>
+    <Address>
+      <Number>301</Number>
+      <Street>Park Ave</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10022</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel NearstAirport="JFK">
+    <Name>The Jane Hotel</Name>
+    <Phone>212-924-6700</Phone>
+    <Address>
+      <Number>113</Number>
+      <Street>Jane St</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10014</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel NearstAirport="JFK">
+    <Name>Moxy East Village</Name>
+    <Phone>212-288-6699</Phone>
+    <Address>
+      <Number>112</Number>
+      <Street>E 11th St</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10003</Zip>
+    </Address>
+  </Hotel>
+
+</Hotels>
